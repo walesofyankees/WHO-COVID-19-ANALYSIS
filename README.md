@@ -14,7 +14,7 @@ Consider a students table:
 student_id	name	score
 -	Alice	85
 -	Bob	75
--Carol	90
+- Carol	90
 -	David	70
 -	Eve	80
 Find students who scored above the average score:
@@ -47,5 +47,5 @@ SELECT * FROM
 - Using subqueries where a JOIN is more efficient
 **NOTE:** It is best to use JOINs instead of subqueries when appropriate.
 
-NAME| AGE| SEX| LOCATION|
-WALE| 12| MALE| AJAH
+NAME|AGE|SEX|LOCATION|
+WALE|12|MALE|AJAH|
